@@ -1,0 +1,84 @@
+
+body{
+    background-color:#2A3235;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    height: 0%;
+    margin-top: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    display: flexbox;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15pt;
+}
+#produto1{
+    background-color: #ffffff;
+    width: 380px;
+    height: 9vh;
+    border-radius: 5px;
+}
+#produto2{
+    background-color: #ffffff;
+    width: 100%;
+    height: 9vh;
+    border-radius: 5px;
+}
+#produto3{
+    background-color:#ffffff;
+    width: 100%;
+    height: 9vh;
+    border-radius: 5px;
+}
+#produto4{
+    background-color: #ffffff;
+    width: 100%;
+    height: 9vh;
+    border-radius: 5px;
+}
+#produto5{
+    background-color: #ffffff;
+    width: 100%;
+    height:9vh;
+    border-radius: 5px;
+}
+img{
+    width: 60px;
+    margin-top: -50px;
+    height: 50px;
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 5px;
+    float: left;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
+#image-tikto{
+    margin-top: 20%;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50%;
+}
+h2{
+    display: flexbox;
+    flex-direction: column;
+    text-align: center;
+    font-size: 15pt;
+}
